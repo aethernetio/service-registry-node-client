@@ -1,6 +1,6 @@
 {
   "name": "aethernet-service-registry-client",
-  "version": "0.0.10",
+  "version": "0.0.13",
   "description": "Node client proxy for use with the Aethernet Service Registry service",
   "main": "dist-server/proxy.js",
   "scripts": {
